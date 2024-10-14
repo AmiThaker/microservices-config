@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Bank Loans related Local APIs"
+  contactDetails:
+    name: "Ami - Developer"
+    email: "ami@gmailcom"
+  onCallSupport:
+    - (+91)1111111111
+    - (+91)2222222222

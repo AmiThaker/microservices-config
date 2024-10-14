@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank Accounts related local APIs"
+  contactDetails:
+    name: "Ami - Developer"
+    email: "ami@gmail.com"
+  onCallSupport:
+    - (+91)1111111111
+    - (+91)2222222222

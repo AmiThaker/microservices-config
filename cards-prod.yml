@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Bank Accounts related PROD APIs"
+  contactDetails:
+    name: "Ami - PROD Developer"
+    email: "ami@gmail.prod.com"
+  onCallSupport:
+    - (+91)5555555555
+    - (+91)6666666666

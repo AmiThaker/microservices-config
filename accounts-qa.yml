@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank Accounts related QA APIs"
+  contactDetails:
+    name: "Ami - QA Developer"
+    email: "ami@gmail.qa.com"
+  onCallSupport:
+    - (+91)3333333333
+    - (+91)4444444444
