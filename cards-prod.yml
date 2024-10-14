@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank Accounts related PROD APIs"
+  message: "Welcome to Bank Cards related production APIs"
   contactDetails:
     name: "Ami - PROD Developer"
     email: "ami@gmail.prod.com"
