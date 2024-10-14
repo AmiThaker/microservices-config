@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank Accounts related prod APIs"
   contactDetails:
     name: "Ami - PROD Owner"
-    email: "ami@gmail.com"
+    email: "{cipher}d1fab15e927e4ea0dbe51cc3ba9ee4eeabc85135dfc208d73cc983e88859afac"
   onCallSupport:
     - (+91)5555555555
     - (+91)6666666666
