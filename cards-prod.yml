@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank Cards related Webhook APIs"
+  message: "Welcome to Bank Cards related PROD APIs"
   contactDetails:
     name: "Ami - PROD Developer"
     email: "ami@gmail.prod.com"
