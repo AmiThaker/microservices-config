@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank Accounts related Webhook APIs"
+  message: "Welcome to Bank Accounts related PROD APIs"
   contactDetails:
     name: "Ami - PROD Owner"
     email: "{cipher}d1fab15e927e4ea0dbe51cc3ba9ee4eeabc85135dfc208d73cc983e88859afac"
