@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank Accounts related docker df APIs"
+  message: "Welcome to Bank Accounts related docker APIs"
   contactDetails:
     name: "Ami - Developer"
     email: "{cipher}d1fab15e927e4ea0dbe51cc3ba9ee4eeabc85135dfc208d73cc983e88859afac"
